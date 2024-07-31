@@ -1,0 +1,373 @@
+* {
+    border: border-box;
+    margin: 0;
+}
+
+.heading {
+    height: 3243px;
+    width: 1514px;
+    border: 3px dashed #B20D30;
+    background-color: aliceblue;
+}
+
+.img h1 {
+    font-size: 115px;
+    font-family: 'Times New Roman';
+    color: blueviolet;
+    padding-left: 220px;
+    padding-top: 30px;
+}
+
+.img {
+    height: 155px;
+    width: 180px;
+    border: 3px solid aliceblue;
+    background-image: url('sun.avif');
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.head1 h1 {
+    font-size: 115px;
+    font-family: 'Times New Roman';
+    color: blue;
+    padding-left: 520px;
+}
+
+.head2 h1 {
+    font-size: 115px;
+    font-family: 'Times New Roman';
+    color: red;
+    padding-left: 1070px;
+    padding-bottom: 20px;
+}
+
+.msg {
+    width: 1514px;
+    height: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    color: #F5B700;
+    font-weight: bolder;
+}
+
+.section-2 {
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 40px;
+}
+
+.pic1 {
+    height: 800px;
+    width: 380px;
+    border: 3px solid aliceblue;
+    background-image: url('tree.jpg');
+    background-size: cover;
+}
+
+.activity {
+    height: 800px;
+    width: 750px;
+    border: 3px solid aliceblue;
+    background-color: beige;
+}
+
+.activity h2 {
+    text-align: center;
+    font-family: italic;
+    font-size: 60px;
+    color: #04E762;
+    font-weight: 900px;
+    padding-top: 40px;
+}
+
+.pic2 {
+    height: 800px;
+    width: 380px;
+    border: 3px solid aliceblue;
+    background-image: url('treeq.jpg');
+    background-size: cover;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.box1 {
+    height: 600px;
+    width: 350px;
+    border: 3px solid aliceblue;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: orangered;
+    font-size: 25px;
+}
+
+.box2 {
+    height: 600px;
+    width: 350px;
+    border: 3px solid aliceblue;
+    padding-top: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rebeccapurple;
+    font-size: 25px;
+}
+
+.child-1 {
+    height: 160px;
+    width: 160px;
+    border: 3px solid aliceblue;
+    margin: 60px 100px 100px 90px;
+    background-image: url('kid1.avif');
+    background-size: cover;
+}
+
+.child-2 {
+    height: 160px;
+    width: 160px;
+    border: 3px solid aliceblue;
+    margin: 60px 100px 100px 90px;
+    background-image: url('kid2.png');
+    background-size: cover;
+}
+
+.section-3 {
+    margin-top: 20px;
+    padding-top: 20px;
+    height: 350px;
+    width: 1509px;
+    border: 3px solid aliceblue;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.eat1 {
+    height: 300px;
+    width: 800px;
+    border: 3px solid aliceblue;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+
+.short {
+    text-align: center;
+    font-weight: bolder;
+    color: chocolate;
+    text-decoration: underline;
+}
+
+.short-1 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    text-decoration: none;
+    text-align: none;
+    color: crimson;
+    font-size: 25px;
+}
+
+.item1 {
+    height: 180px;
+    width: 180px;
+    border: 3px solid aliceblue;
+}
+
+.item2 {
+    height: 180px;
+    width: 180px;
+    border: 3px solid aliceblue;
+}
+
+.eat2 {
+    height: 300px;
+    width: 420px;
+    border: 3px solid aliceblue;
+    border-radius: 30px;
+    margin-top: 10px;
+    background-image: url('child.jpg');
+    background-size: cover;
+}
+
+.section-4 {
+    height: 330px;
+    width: 1510px;
+    border: 3px solid aliceblue;
+    background-color: aliceblue;
+    margin-top: 25px;
+}
+
+.options {
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+    background-color: aliceblue;
+}
+
+.opt {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.fact1 {
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 200px;
+    width: 500px;
+    border: 3px solid aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: darkorchid;
+}
+
+.fact2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 200px;
+    width: 500px;
+    border: 3px solid aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: darkorchid;
+}
+
+.section-5 {
+    height: 400px;
+    width: 1510px;
+    border: 3px solid aliceblue;
+    background-image: url("children.jpg");
+    background-size: cover;
+}
+
+.message {
+    height: 100px;
+    width: 1490px;
+    border: 5px dotted #BF4E30;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    padding-top: 20px;
+    color: slateblue;
+}
+
+.section-6 {
+    height: 165px;
+    width: 1500px;
+    border: 3px solid aliceblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+.boys {
+    height: 140px;
+    width: 140px;
+    border-radius: 50%;
+    border: 3px solid aliceblue;
+    margin-top: 10px;
+    background-color: aqua;
+}
+
+.whom {
+    height: 50px;
+    width: 50px;
+    border: 2px solid transparent;
+    margin-top: 10px;
+    margin-left: 45px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.girls {
+    height: 120px;
+    width: 120px;
+    border: 3px solid aliceblue;
+    margin-top: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 30px;
+    background-color: #E9D2C0;
+}
+
+.age {
+    padding-left: 10px;
+}
+
+.section-7 {
+    height: 37px;
+    width: 1510px;
+    border: 3px solid aliceblue;
+}
+
+.section-7 marquee {
+    background-color: #F18F01;
+}
+
+.section-8 {
+    height: 200px;
+    width: 1510px;
+    border: 2px solid aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    background-color: aliceblue;
+}
+
+.reg-1 {
+    height: 185px;
+    width: 185px;
+    border: 2px solid aliceblue;
+    background-image: url('reg.png');
+    background-size: cover;
+}
+
+.main {
+    height: 150px;
+    width: 500px;
+    border: 2px solid aliceblue;
+    margin-top: 20px;
+    text-align: center;
+    color: #FA26A0;
+    font-size: 20px;
+    background-color: #90BAAD;
+    border-radius: 30px;
+}
+
+.main a {
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.reg-2 {
+    height: 150px;
+    width: 380px;
+    border: 2px solid aliceblue;
+    background-image: url('Kinder.png');
+    background-size: cover;
+    margin-top: 25px;
+}
+
+footer {
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
